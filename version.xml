@@ -1,7 +1,7 @@
 <update>
   <name>VEGA Mobile</name>
-  <version>10000</version>
-  <versionName>1.0.0</versionName>
+  <version>10001</version>
+  <versionName>1.0.1</versionName>
   <url>https://raw.githubusercontent.com/vsd-advantech/VEGA-Mobile-Store/master/vegamobi_release_20200304_ver_10001.apk</url>
   <default_url>https://raw.githubusercontent.com/vsd-advantech/VEGA-Mobile-Store/master/vegamobi_release.apk</default_url>
 </update>
