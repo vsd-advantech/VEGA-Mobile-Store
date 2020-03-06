@@ -1,10 +1,13 @@
-# Installation of VEGA Mobile APP 
-  QR code:  [![apk series][apk-qrcode]][apk-url]
+# Installation of VEGA Mobile APP
+
+- How to install App
+
+  https://raw.githubusercontent.com/vsd-advantech/VEGA-Mobile-Store/master/vegamobi_release.apk
+
+  <img src='./vegamobi_install_qrcode.png' width="64" height="64" />
 
 # Store of VEGA Mobile
 
-## [update version file, version.xml][version-xml]
+## [version.xml][version-xml]  -  latest version information 
 
-[apk-qrcode]: ./vegamobi_install_qrcode.png
-[apk-url]: https://raw.githubusercontent.com/vsd-advantech/VEGA-Mobile-Store/master/vegamobi_release.apk
 [version-xml]: ./version.xml
