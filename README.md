@@ -1,5 +1,5 @@
 # Installation of VEGA Mobile APP 
-    [![apk series][apk-qrcode]][apk-url]
+  QR code:  [![apk series][apk-qrcode]][apk-url]
 
 # Store of VEGA Mobile
 
